@@ -1,4 +1,4 @@
-# Bulls and Cows in Rust
+# Bulls and Cows 🐂🐄 in Rust 🦀
 
 This is a simple implementation of the classic "Bulls and Cows" game written in Rust. The game challenges players to guess a secret code, providing feedback on the number of correct digits in the correct position (bulls) and correct digits in the wrong position (cows).
 
