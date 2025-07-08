@@ -8,8 +8,8 @@ This is a simple implementation of the classic "Bulls and Cows" game written in 
 
 2. **Clone the Repository**:
   ```bash
-  git clone /home/raul6174/rust_projects/bulls_and_cows
-  cd bulls_and_cows
+  git clone https://github.com/raulmaulidhino-dev/simple_bulls_and_cows_rust.git
+  cd simple_bulls_and_cows_rust
   ```
 
 3. **Build the Project**:
