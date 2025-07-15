@@ -29,4 +29,4 @@ This is a simple implementation of the classic "Bulls and Cows" game written in 
 - Feedback on guesses with bulls and cows.
 - Written in safe and efficient Rust.
 
-Enjoy playing Bulls and Cows!
+Enjoy playing Bulls and Cows! 🎮
